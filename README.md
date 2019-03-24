@@ -42,6 +42,6 @@ npm run server:dev
 
 The application is running on port 3000 so visit http://localhost:3000.
 
-####Screenshot of Card Defenders
+#### Screenshot of Card Defenders
 ![Image of the app](images/card_defenders_screen_shot.jpg
 )
