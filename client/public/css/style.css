@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  padding: 0 px;
+  padding: 0px;
   font-family: 'Merienda', cursive;
   font-family: 'Cinzel', serif;
   font-family: 'Berkshire Swash', cursive;
@@ -287,7 +287,6 @@ p {
 	border: none;
 	color: #fff;
   border: 1px solid #bfbfbf;
-  /* padding: 7px; */
   margin-top: 1rem;
   outline: none;
   border-top-right-radius: 15px;
